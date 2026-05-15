@@ -1,5 +1,5 @@
 ---
-title: About
+title: FERNANDO C AMORSOLO 
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
