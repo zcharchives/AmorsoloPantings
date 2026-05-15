@@ -12,16 +12,10 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## ABOUT THE ARCHIVE
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This archive celebrates the life and masterpieces of Fernando Amorsolo, one of the most influential artists in Philippine history.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Known as the __“Grand Old Man of Philippine Art”__, Amorsolo captured the beauty of Filipino culture through luminous landscapes, rural scenes, portraits, and historical paintings. His works are admired for their warm lighting, detailed craftsmanship, and romantic portrayal of everyday Filipino life. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The collection highlights Amorsolo’s artistic legacy and his contribution to shaping Filipino identity through art. From idyllic countryside scenes to significant historical moments, each artwork reflects his deep appreciation for tradition, resilience, and national pride. This archive serves as both a tribute and a resource for appreciating the enduring impact of his vision on Philippine art and culture. 
