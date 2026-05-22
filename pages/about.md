@@ -8,8 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="<img width="672" height="457" alt="17794910050748920657048736749831" src="https://github.com/user-attachments/assets/2e72c811-4366-4ac0-b7d8-86f7596076ff" />
-" %}
+{% include feature/jumbotron.html objectid="BETA_001.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Archive;About the Page" %}
 
