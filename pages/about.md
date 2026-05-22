@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="object/ced02cd6ea3547db6918a765d6d33e7a.jpg" %}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Archive;About the Page;Credit Statement" %}
 
@@ -27,7 +27,5 @@ This website serves as a digital archive dedicated to the life and artworks of F
 The archive was created to preserve, organize, and showcase Amorsolo’s masterpieces, artistic journey, and contribution to Philippine culture and identity. Through this platform, visitors can explore collections of his paintings, learn about the historical and cultural context behind his works, and appreciate his signature use of light, rural landscapes, and depictions of Filipino life.
 
 This page aims to make art and history more accessible to students, researchers, art enthusiasts, and future generations by providing a centralized and informative digital collection of Amorsolo’s legacy.
-
-## Credit Statement 
 
 This database was created by Ciallina Punzalan, Hailia Sawyer, and Zean Unabia in partial fulfillment of the requirements for ARTOO3: Arts Appreciation (2nd Semester, AY 2025-2026) under the guidance of Prof. Adrian Mendizabal. https://github.com/zcharchives/AmorsoloPantings/blob/main/_includes/image/ced02cd6ea3547db6918a765d6d33e7a.jpgThe collection highlights Amorsolo’s artistic legacy and his contribution to shaping Filipino identity through art. From idyllic countryside scenes to significant historical moments, each artwork reflects his deep appreciation for tradition, resilience, and national pride. This archive serves as both a tribute and a resource for appreciating the enduring impact of his vision on Philippine art and culture.
