@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="ced02cd6ea3547db6918a765d6d33e7a.jpg" %}
+{% include feature/jumbotron.html objectid="https://github.com/zcharchives/AmorsoloPantings/blob/main/objects/ced02cd6ea3547db6918a765d6d33e7a.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Archive;About the Page;Credit Statement" %}
 
