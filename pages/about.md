@@ -28,6 +28,6 @@ The archive was created to preserve, organize, and showcase Amorsolo’s masterp
 
 This page aims to make art and history more accessible to students, researchers, art enthusiasts, and future generations by providing a centralized and informative digital collection of Amorsolo’s legacy.
 
-## Credits
+## Credit Statement 
 
 This database was created by Ciallina Punzalan, Hailia Sawyer, and Zean Unabia in partial fulfillment of the requirements for ARTOO3: Arts Appreciation (2nd Semester, AY 2025-2026) under the guidance of Prof. Adrian Mendizabal.
