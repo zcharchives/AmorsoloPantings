@@ -20,6 +20,7 @@ The collection highlights Amorsolo’s artistic legacy and his contribution to s
 
 ## ABOUT THE PAGE 
 
+
 This website serves as a digital archive dedicated to the life and artworks of Fernando Amorsolo, __one of the most celebrated Filipino painters and the first National Artist of the Philippines for Visual Arts.__
 
 The archive was created to preserve, organize, and showcase Amorsolo’s masterpieces, artistic journey, and contribution to Philippine culture and identity. Through this platform, visitors can explore collections of his paintings, learn about the historical and cultural context behind his works, and appreciate his signature use of light, rural landscapes, and depictions of Filipino life.
@@ -27,3 +28,5 @@ The archive was created to preserve, organize, and showcase Amorsolo’s masterp
 This page aims to make art and history more accessible to students, researchers, art enthusiasts, and future generations by providing a centralized and informative digital collection of Amorsolo’s legacy.
 
 The collection highlights Amorsolo’s artistic legacy and his contribution to shaping Filipino identity through art. From idyllic countryside scenes to significant historical moments, each artwork reflects his deep appreciation for tradition, resilience, and national pride. This archive serves as both a tribute and a resource for appreciating the enduring impact of his vision on Philippine art and culture.
+
+This database was created by Punzalan, Ciallina Rebuen M., Sawyer, Hailia-Marie N., and Unabia, Zean Camille  in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
