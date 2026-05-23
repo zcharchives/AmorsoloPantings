@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-
-
 ## ABOUT THE ARCHIVE
 
 This archive celebrates the life and masterpieces of Fernando Amorsolo, one of the most influential artists in Philippine history.
