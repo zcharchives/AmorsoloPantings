@@ -33,4 +33,3 @@ The collection highlights Amorsolo’s artistic legacy and his contribution to s
 ## CREDIT STATEMENT 
 
 This database was created by Punzalan, Ciallina Rebuen M., Sawyer, Hailia-Marie N., and Unabia, Zean Camille  in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
-
