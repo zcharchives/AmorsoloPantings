@@ -9,7 +9,7 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Archive;About the Page;Credits" %}
+{% include feature/nav-menu.html sections="About the Archive ;About the Page ;Credits " %}
 
 ## ABOUT THE ARCHIVE
 
