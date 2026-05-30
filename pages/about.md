@@ -9,7 +9,7 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Archive ;About the Page ;Credits " %}
+{% include feature/nav-menu.html sections="About the Archive;About the Page;Credits" %}
 
 ## ABOUT THE ARCHIVE
 
@@ -32,3 +32,4 @@ The collection highlights Amorsolo’s artistic legacy and his contribution to s
 ## CREDITS
 
 This database was created by Punzalan, Ciallina Rebuen M., Sawyer, Hailia-Marie N., and Unabia, Zean Camille  in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
+
