@@ -26,4 +26,6 @@ This page aims to make art and history more accessible to students, researchers,
 
 The collection highlights Amorsolo’s artistic legacy and his contribution to shaping Filipino identity through art. From idyllic countryside scenes to significant historical moments, each artwork reflects his deep appreciation for tradition, resilience, and national pride. This archive serves as both a tribute and a resource for appreciating the enduring impact of his vision on Philippine art and culture.
 
+## CREDITS
+
 This database was created by Punzalan, Ciallina Rebuen M., Sawyer, Hailia-Marie N., and Unabia, Zean Camille  in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
